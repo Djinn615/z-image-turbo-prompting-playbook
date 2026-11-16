@@ -281,3 +281,5 @@ weaknesses better, because slight irregularity reads as craft. This
 became a design doctrine on the project that produced this chapter:
 words set in metal, in the Mistborn sense. "I write these words in
 steel, for anything not set in metal cannot be trusted."
+
+Published from a local-first workflow. Corrections and additions are welcome via issues.
